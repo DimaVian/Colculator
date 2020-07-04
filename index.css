@@ -1,0 +1,43 @@
+#d1{
+    background-color: black;
+    width: 54ch;
+    height: 60ch;
+    position: relative;
+    left: 95ch;
+    top: 30ch;
+    
+}
+#dis{
+    position: relative;
+    width: 45ch;
+    height:9ch;
+    left: 6ch;
+    top: 5ch;
+    border-radius: 1ch;
+    background-color: coral;
+    outline: none;
+}
+.row{
+    width: 290px;
+    float: left;
+}
+input[type=button] {
+	width: 60px;
+	height: 60px;
+	float: left;
+	margin: 5px;
+	box-sizing: border-box;
+	background: white;
+	border: none;
+	font-size: 35px;
+	line-height: 35px;
+	border-radius: 3ch;
+	font-weight: 700;
+	color: #5E5858;
+    cursor: pointer;
+    position: relative;
+    top: 4ch;
+    left: 4ch;
+    outline: none;
+	
+}
